@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">QueueR</string>
-    <string name="hello_world">QR Code!</string>
+    <string name="hello_world">MDP.QueueR</string>
     <string name="action_settings">Settings</string>
 
 </resources>
